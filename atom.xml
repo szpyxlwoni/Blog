@@ -4,7 +4,7 @@
   <title><![CDATA[BlasphemyMoon Blog]]></title>
   <link href="http://szpyxlwoni.github.com/Blog/atom.xml" rel="self"/>
   <link href="http://szpyxlwoni.github.com/Blog/"/>
-  <updated>2013-01-27T21:47:02+08:00</updated>
+  <updated>2013-01-27T21:52:32+08:00</updated>
   <id>http://szpyxlwoni.github.com/Blog/</id>
   <author>
     <name><![CDATA[BlasphemyMoon]]></name>
@@ -18,7 +18,7 @@
     <link href="http://szpyxlwoni.github.com/Blog/blog/2013/01/27/my-first-post/"/>
     <updated>2013-01-27T21:41:00+08:00</updated>
     <id>http://szpyxlwoni.github.com/Blog/blog/2013/01/27/my-first-post</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>This is my first post using English.  I have no idea for what to write, so this blog just for testing github pages. And I apologize for my poor English skill, I think it will be improve if I adhere to write blog.  Anyway, thanks for your visiting.</p>
 ]]></content>
   </entry>
   
